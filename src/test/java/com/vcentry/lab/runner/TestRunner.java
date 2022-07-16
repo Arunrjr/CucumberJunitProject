@@ -13,7 +13,7 @@ plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 monochrome = true // readable console
 ,tags = "@sanity"
 // ,publish = true
-
+// test
 )
 public class TestRunner {
 
